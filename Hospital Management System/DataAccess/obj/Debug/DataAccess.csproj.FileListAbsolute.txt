@@ -1,0 +1,6 @@
+H:\OOP2\Hospital Management System\DataAccess\bin\Debug\DataAccess.dll
+H:\OOP2\Hospital Management System\DataAccess\bin\Debug\DataAccess.pdb
+H:\OOP2\Hospital Management System\DataAccess\obj\Debug\DataAccess.csproj.AssemblyReference.cache
+H:\OOP2\Hospital Management System\DataAccess\obj\Debug\DataAccess.csproj.CoreCompileInputs.cache
+H:\OOP2\Hospital Management System\DataAccess\obj\Debug\DataAccess.dll
+H:\OOP2\Hospital Management System\DataAccess\obj\Debug\DataAccess.pdb
